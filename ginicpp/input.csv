@@ -1,0 +1,11 @@
+day ,temperature,humidity,clouds,rain
+1,H,H,Y,Y
+2,H,H,N,N
+3,L,H,N,N
+4,M,L,N,N
+5,H,L,Y,Y
+6,M,L,Y,Y
+7,L,L,Y,N
+8,L,L,N,N
+9,L,H,Y,Y
+10,M,L,N,N
